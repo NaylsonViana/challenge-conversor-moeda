@@ -14,7 +14,7 @@ class ExchangeRateResponse {
 }
 
 public class ConversorMoeda {
-    private static final String API_KEY = "35aa79863a238b0ba3da5659"; // Substitua pela sua chave da API
+    private static final String API_KEY = "";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public static void main(String[] args) {
